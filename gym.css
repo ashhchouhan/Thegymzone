@@ -1,0 +1,109 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    color: white;
+}
+.left{
+    /* border:2px solid rgb(32, 30, 30); */
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+.left img{
+    width: 60px;
+    filter:invert(100%); 
+    /* border: 2px solid black; */
+}
+.mid
+{
+    /* border:2px solid purple; */
+    display: block;
+    width: 600px;
+    margin: 70px auto;
+}
+.right{
+    border:2px solid green;
+    display: inline-block;
+    position:absolute;
+    right: 30px;
+    top: 30px;
+}
+.navbar li{
+    display: inline-block;
+    
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+}
+.navbar li a:hover,.navbar li a:active{
+    text-decoration:underline;
+    color:darkred;
+}
+.center{
+    /* border: 2px solid red; */
+    width: 738px;
+    height: 136px;
+    text-align: center;
+    margin: 276px auto;
+    font-size: 38px;
+    font-family: ui-monospace;
+    padding: 28px -1px;
+    /* transition: var(--transition); */
+}
+#pera{
+    line-height: 87%;
+    font-size: 20px;
+    margin: 10px;
+}
+#extra{
+    text-align: center;
+    padding: 0px;
+    border-radius: 7px;
+    cursor: pointer;
+    position: absolute;
+    top: 503px;
+    right: 608px;
+}
+
+#extra:hover{
+
+     background-color:grey;
+     color: white;
+}
+.lor{
+    font-size: 10px;
+}
+.more{
+    /* border: 2px solid red; */
+    width: 400pxpx;
+    height: 102px;
+    padding: 1px 10px;
+    position: absolute;
+    top: 77%;
+    right: 32%;
+    font-family: 20px;
+    text-align: center;
+    font-size: 22px;
+    margin:21px 2px ;
+    line-height: 0px;
+}
+.btn{
+   
+    text-align: center;
+    font-family: fansong;
+    font-size: 13px;
+    /* padding: 30px; */
+    border-radius: 0px;
+    padding: 3px 0px;
+    margin: 0px 3px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: grey;
+    color: white;
+}
