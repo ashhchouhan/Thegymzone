@@ -1,7 +1,7 @@
 # Thegymzone
 Gym Project
 Overview
-Welcome to the Gym Project! This application helps users manage their gym activities efficiently. With features like viewing gym schedules, booking sessions, and tracking their fitness progress, users can stay organized and motivated on their fitness journey.
+Welcome to the Gym Project! This application helps users manage their gym activities efficiently. With features like viewing gym schedules, booking sessions, and tracking their fitness progress, users can stay organized and motivated on their fitness journey. PROJECT IS CREATE USING html css js  PHP. 
 
 Features
 User Authentication: Secure login and registration.
